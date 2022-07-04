@@ -1,9 +1,6 @@
 # React Weather App - ReactJS Projects
 
-![](weather.mp)
-
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
+![](weather.gif)
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
